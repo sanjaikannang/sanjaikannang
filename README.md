@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **I am focusing on JavaScript, React Js, Node Js.**
 
-- 👨‍💻 All of my projects are available at [https://starlit-tanuki-709730.netlify.app/](https://starlit-tanuki-709730.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://starlit-tanuki-709730.netlify.app/]([https://starlit-tanuki-709730.netlify.app/](https://preeminent-biscotti-cf4f6a.netlify.app))
 
 - 💬 Ask me about **JavaScript, React, Node Js**
 
